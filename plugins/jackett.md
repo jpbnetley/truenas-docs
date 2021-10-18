@@ -1,4 +1,4 @@
-## Update Jackett manually
+# Truenas: Update Jackett manually
 Assuming the Jackett plugin was installed via the plugins.
 
 >  Enter the shell for the jail  
