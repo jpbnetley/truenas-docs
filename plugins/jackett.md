@@ -4,7 +4,7 @@ Assuming the Jackett plugin was installed via the plugins.
 >  Enter the shell for the jail  
 Execute the following commands
 
-- get the latest release for jackett
+- get the latest release for [jackett](https://github.com/Jackett/Jackett/releases/tag/v0.18.1022)
 
 ```shell
 fetch https://github.com/Jackett/Jackett/releases/download/v0.18.1022/Jackett.Binaries.Mono.tar.gz -o /usr/local/share
