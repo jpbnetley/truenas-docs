@@ -1,5 +1,5 @@
 # Truenas: Update Jackett manually
-## *Adapter from [digimoot](https://digimoot.wordpress.com/2019/10/13/freenas-jackett-manual-install/)*
+## *Adapted from [digimoot](https://digimoot.wordpress.com/2019/10/13/freenas-jackett-manual-install/)*
 
 Assuming the Jackett plugin was installed via the plugins.
 
