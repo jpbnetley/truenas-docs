@@ -8,7 +8,7 @@ Execute the following commands
 
 >you can download the bash script [here](./jacket-update.sh) and run it with `sh ./jacket-update.sh`
 
-- get the latest release for [jackett](https://github.com/Jackett/Jackett/releases)
+- get the latest release for [Jackett](https://github.com/Jackett/Jackett/releases)
 
 ```shell
 fetch https://github.com/Jackett/Jackett/releases/download/v0.18.1022/Jackett.Binaries.Mono.tar.gz -o /usr/local/share
