@@ -25,4 +25,4 @@ mv /usr/local/share/Jackett /usr/local/share/jackett
 service jackett start
 ```
 
->TODO: Fix cert errors [issue](https://github.com/Jackett/Jackett/issues/12432)
+>If you have certificate errors, the fix is [here](https://github.com/Jackett/Jackett/issues/12432#issuecomment-946400786)
