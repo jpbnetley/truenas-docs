@@ -22,6 +22,10 @@ rm /usr/local/share/Jackett.Binaries.Mono.tar.gz
 mv /usr/local/share/jackett /usr/local/share/jackett-old
 mv /usr/local/share/Jackett /usr/local/share/jackett
 
+chown -R jackett:jackett /usr/local/share/jackett/
+chown -R jackett:jackett /usr/local/jackett/
+
+service jackett stop
 service jackett start
 ```
 
