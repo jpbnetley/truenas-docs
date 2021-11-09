@@ -1,5 +1,5 @@
-# truenas-docs
-info for setting up truenas plugins
+# [Truenas](https://www.truenas.com/) docs
+> Info for setting up truenas plugins
 
 # Plugins
 - [Jackett](plugins/Jackett/jackett.md)
