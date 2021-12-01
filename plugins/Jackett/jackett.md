@@ -3,10 +3,10 @@
 
 Assuming the Jackett plugin was installed via the plugins.
 
->  Enter the shell for the jail  
+> Enter the shell for the jail  
 Execute the following commands
 
->you can download the bash script [here](./jacket-update.sh) and run it with `sh ./jacket-update.sh`
+> you can download the bash script [here](./jacket-update.sh) and run it with `sh ./jacket-update.sh`
 
 - get the latest release for [Jackett](https://github.com/Jackett/Jackett/releases)
 
@@ -29,4 +29,4 @@ service jackett stop
 service jackett start
 ```
 
->If you have certificate errors, the fix is [here](https://github.com/Jackett/Jackett/issues/12432#issuecomment-946400786)
+> If you have certificate errors, the fix is [here](https://github.com/Jackett/Jackett/issues/12432#issuecomment-946400786)

@@ -16,3 +16,5 @@ chown -R jackett:jackett /usr/local/jackett/
 
 service jackett stop
 service jackett start
+
+read -p "Press enter to continue"
