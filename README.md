@@ -1,6 +1,5 @@
-# truenas-docs
-info for setting up truenas plugins / jails
-
+# [Truenas](https://www.truenas.com/) docs
+> info for setting up truenas plugins / jails
 
 # Plugins
 - [Jackett](plugins/Jackett/jackett.md)
@@ -8,7 +7,7 @@ info for setting up truenas plugins / jails
 - [Sonar & Radar](plugins/sonar-&-radar.md)
 
 # Custom
-> to enter a jail via ssh, ssh into the Truenas machine. then use the following.
+> to enter a jail via ssh, ssh into the Truenas machine, then use the following.
 
 ```bash
 #list all of the jails
