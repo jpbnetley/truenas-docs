@@ -39,4 +39,9 @@ echo 'you can customize your caddy file here: /usr/local/etc/caddy
 
 ```
 
-The caddy file will be located under: `/usr/local/etc/caddy` and should be configured here.
+The caddy file will be located under: `/usr/local/etc/caddy` and should be configured here.  
+
+> To edit the caddy file, its recommended to use `vim`, as `vi` is giving problems when navigating around in the file.
+```bash
+pkg update && pkg install vim
+```
