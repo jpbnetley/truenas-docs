@@ -38,3 +38,5 @@ caddy start
 echo 'you can customize your caddy file here: /usr/local/etc/caddy
 
 ```
+
+The caddy file will be located under: `/usr/local/etc/caddy` and should be configured here.
