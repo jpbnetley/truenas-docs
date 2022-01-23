@@ -18,3 +18,7 @@ iocage console $JAIL_NAME
 
 - [Caddy](Custom/Caddy/README.md)
 - [OpenVPN](Custom/OpenVPN/README.md)
+
+# Additional resources
+## ZFS
+- [How data gets imbalanced on ZFS](https://jrs-s.net/2018/04/11/how-data-gets-imbalanced-on-zfs/)
