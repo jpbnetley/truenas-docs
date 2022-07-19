@@ -1,4 +1,4 @@
-# Truenas: Setup Radar and Sonar
+# Truenas: Setup [Radar](https://github.com/Radarr/Radarr) and [Sonar](https://github.com/Sonarr/Sonarr)
 >Using the plugin
 
 - [video](https://youtu.be/DQIGUmWxBX8?t=165)

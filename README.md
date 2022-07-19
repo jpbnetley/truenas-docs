@@ -3,7 +3,7 @@
 
 # Plugins
 ## Torrent / usenet indexers
-- [Prowlarr](https://github.com/Prowlarr/Prowlarr) (management of both Torrent Trackers and Usenet Indexers.)
+- [Prowlarr](plugins/prowlarr.md) (management of both Torrent Trackers and Usenet Indexers.)   
 - [Jackett](plugins/Jackett/jackett.md) (API Support for your favorite torrent trackers)
 
 ## Video playback
