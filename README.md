@@ -2,8 +2,14 @@
 > info for setting up truenas plugins / jails
 
 # Plugins
-- [Jackett](plugins/Jackett/jackett.md)
+## Torrent / usenet indexers
+- [Prowlarr](https://github.com/Prowlarr/Prowlarr) (management of both Torrent Trackers and Usenet Indexers.)
+- [Jackett](plugins/Jackett/jackett.md) (API Support for your favorite torrent trackers)
+
+## Video playback
 - [Plex](plugins/plex.md)
+
+## PVR apps
 - [Sonar & Radar](plugins/sonar-&-radar.md)
 
 # Custom
