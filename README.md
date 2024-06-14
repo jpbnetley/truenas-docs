@@ -5,6 +5,7 @@
 ## Torrent / usenet indexers
 - [Prowlarr](plugins/prowlarr.md) (management of both Torrent Trackers and Usenet Indexers.)   
 - [Jackett](plugins/Jackett/jackett.md) (API Support for your favorite torrent trackers)
+- [Transmission](plugins/transmission.md) (Torrent client)
 
 ## Video playback
 - [Plex](plugins/plex.md)
