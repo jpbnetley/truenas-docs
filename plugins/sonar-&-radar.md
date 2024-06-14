@@ -24,3 +24,45 @@ radarr.db-wal
 radarr.db-shm   
 radarr.pid
 ```
+
+## Jail properties
+
+### Radarr
+#### Confirm Jail config
+- Basic properties  
+  The following properties are checked
+  - NAT
+  - VNET
+- Jail Properties
+  The following properties are checked
+    - allow_set_hostname
+    - allow_raw_sockets
+    - allow_mlock
+- Network Properties  
+  The following properties are checked
+  - ipv4.saddrsel
+  - ipv6.saddrsel
+  - Nat port forwarding (jail :7878; host 7878)
+ - Custom properties
+   The following properties are checked
+   - host_time
+
+### Sonarr
+#### Confirm Jail config
+- Basic properties  
+  The following properties are checked
+  - NAT
+  - VNET
+- Jail Properties
+The following properties are checked
+  - allow_set_hostname
+  - allow_sysvipc
+  - allow_mlock
+- Network Properties  
+The following properties are checked
+  - ipv4.saddrsel
+  - ipv6.saddrsel
+  - Nat port forwarding (jail :8989; host :8989)
+  
+    
+  
