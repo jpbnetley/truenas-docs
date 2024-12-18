@@ -18,7 +18,9 @@ Add the user to the ACL permission and apply recursively.
 
 - Create the app via the plugin.
   - link the userid to the plugin when it gets created
+
   <image src="../assets/plugins/radarr/plugin-userId.png" alt='plugin userId'>
+  
   - setup the folder paths
     You will need 2 folders.
       - Download: where the files that are done being downloaded is added

@@ -4,8 +4,8 @@
 - [Migtrate from Truanas core to Truenas scale](./migate-from-core.md)
 
 ## Apps
-- [transmission](./plugins/transmission.md)
+- [Transmission](./plugins/transmission.md)
 - [Radarr](./plugins/radarr.md)
 - [Sonarr](./plugins/sonarr.md)
-- [prowlar](./plugins/prowlar.md)
+- [Prowlar](./plugins/prowlar.md)
 - [Plex](./plugins/plex.md)
