@@ -1,6 +1,10 @@
 # Setup plex
 - [video](https://www.youtube.com/watch?v=L6faaMR6aXA)
 
+## Allow outside network access
+- ensure the port custom port matches the port in the browser address bar.  
+  For example, if the local address is `http://192.168.1.60:32400/web/index.html#!` then the port that needs to be forwarded is `32400`
+
 ## Faq
 #### Setting permissions for dataSets
 If there are permissions set for the DataSet, plex cannot access the files.  
