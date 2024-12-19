@@ -9,3 +9,4 @@
 - [Sonarr](./plugins/sonarr.md)
 - [Prowlar](./plugins/prowlar.md)
 - [Plex](./plugins/plex.md)
+- [Homasarr](./plugins/homarr.md)
